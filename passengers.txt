@@ -1,0 +1,6 @@
+1 21 "Ali khan" "male"
+2 25 "rahul sharma" "male"
+3 23 "Mohd ajmal " "Male"
+4 18 "asif ansari" "male"
+5 20 "Hammad" "male"
+6 18 "sara khan" "female"

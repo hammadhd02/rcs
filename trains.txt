@@ -1,0 +1,5 @@
+12723 "telangana sf express" "hyderabad" "nizamuddin" 500 498
+12433 "Rajdhani express" "delhi" "mumbai" 400 400
+12203 "Garib Rath" "bhopal" "chennai" 300 300
+12213 "Duronto Express" "Mumbai" "new delhi" 600 600
+12002 "Shatabdi Express" "new delhi " "bhopal" 100 100
